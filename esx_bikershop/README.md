@@ -26,10 +26,9 @@
 
 start esx_bikershop
 
-##Installation du mapping
-
-start mosleynutt
-
 ```
 - If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
 
+##Installation du mapping
+
+start mosleynutt
