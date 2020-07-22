@@ -14,11 +14,6 @@
 
 ## Download & Installation
 
-cd resources
-git clone https://github.com/ESX-Org/esx_bikershop [esx]/esx_bikershop
-
-```
-
 ### Manually
 - Download https://github.com/ESX-Org/esx_bikershop/archive/master.zip
 - Put it in the `[esx]` directory
