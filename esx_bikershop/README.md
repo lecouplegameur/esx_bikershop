@@ -30,6 +30,7 @@ git clone https://github.com/ESX-Org/esx_bikershop [esx]/esx_bikershop
 ```
 start esx_bikershop
 start mosleynutt
+
 ```
 - If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
 
