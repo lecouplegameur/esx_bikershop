@@ -15,7 +15,7 @@
 ## Download & Installation
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_bikershop/archive/master.zip
+- Download https://github.com/lecouplegameur/esx_bikershop
 - Put it in the `[esx]` directory
 
 ## Installation
