@@ -1,4 +1,5 @@
-# esx_vehicleshop
+# esx_bikershop
+
 
 ## Requirements
 
@@ -10,37 +11,31 @@
   * [esx_billing](https://github.com/ESX-Org/esx_billing)
   * [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
   * [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
-  * [cron](https://github.com/ESX-Org/cron)
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_vehicleshop
-```
-
-### Using Git
-```
 cd resources
-git clone https://github.com/ESX-Org/esx_vehicleshop [esx]/esx_vehicleshop
+git clone https://github.com/ESX-Org/esx_bikershop [esx]/esx_bikershop
+
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_vehicleshop/archive/master.zip
+- Download https://github.com/ESX-Org/esx_bikershop/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
-- Import `esx_vehicleshop.sql` in your database
+- Import `esx_bikershop.sql` in your database
 - Add this in your `server.cfg`:
 
 ```
-start esx_vehicleshop
+start esx_bikershop
+start mosleynutt
 ```
 - If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
 
 # Legal
 ### License
-esx_vehicleshop - vehicle shop for ESX
+esx_bikershop - vendeur de moto pour fivem avec mapping
 
 Copyright (C) 2015-2018 Jérémie N'gadi
 
