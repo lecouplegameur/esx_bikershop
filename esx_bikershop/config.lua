@@ -43,7 +43,7 @@ Config.Zones = {
 		Size  = { x = 1.5, y = 1.5, z = 1.0 },
 		Type  = 27
 	},
-    -- a verifier --
+    -- ne pas toucher --
 	--GiveBackVehicle = {
 	--	Pos   = { x = -33.14, y = -1664.61, z = 28.67 },
 	--	Size  = { x = 1.5, y = 1.5, z = 1.5 },
