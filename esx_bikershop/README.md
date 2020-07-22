@@ -6,15 +6,15 @@
 * Auto mode (everyone can buy vehicles from the dealer)
   * No need to download another resource
 
-* Player management (the car dealer job): billing, boss actions and more!
+* Player management (the biker job dealer): billing, boss actions and more!
   * [esx_society](https://github.com/ESX-Org/esx_society)
   * [esx_billing](https://github.com/ESX-Org/esx_billing)
   * [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
   * [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
 
-## Download & Installation
+## Download & Installation ###
 
-### Manually
+### Manually ###
 - Download https://github.com/lecouplegameur/esx_bikershop
 - Put it in the `[esx]` directory
 
@@ -22,13 +22,12 @@
 - Import `esx_bikershop.sql` in your database
 - Add this in your `server.cfg`:
 
-##Installation
+### Installation ###
 
 start esx_bikershop
+ 
+If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
 
-```
-- If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
-
-##Installation du mapping
+### Installation du mapping ###
 
 start mosleynutt
